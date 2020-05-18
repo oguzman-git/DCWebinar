@@ -4,8 +4,7 @@ precios de entradas, ubicación, fotografías y tienda en PayPal. Desde una base
 y se guardan las personas que se registran al evento. 
 Todo el contenido es dinámico y se despliega en el front-end basado en la información guardada en la base de datos. 
 
-## Imágenes
-
+## Screenshots
 ### Página principal 
 
 ![screencapture-localhost-DCWebinar-html5-boilerplate_v7-3-0-index-php-1589821701342](https://user-images.githubusercontent.com/65259231/82241397-b2ae3600-9901-11ea-994c-4a451e995c72.png)
